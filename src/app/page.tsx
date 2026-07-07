@@ -34,7 +34,7 @@ export default function Home() {
       {/* Header */}
       <div className="bg-gradient-to-br from-emerald-600 to-teal-500 p-6 md:p-8 rounded-3xl shadow-lg text-white mb-8">
         <h1 className="text-2xl md:text-3xl font-bold mb-2 flex items-center gap-2">
-          <span>🗓️</span> 스마트 수업교체 도우미
+          <span>🗓️</span> 명신고등학교 수업교체 도우미
         </h1>
         <p className="text-emerald-50 font-medium text-sm md:text-base">
           설정 시트의 고정 데이터와 앱 내 임시 설정이 함께 적용됩니다
