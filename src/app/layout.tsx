@@ -6,8 +6,8 @@ import { ScheduleProvider } from "@/lib/ScheduleContext";
 const notoSansKR = Noto_Sans_KR({ subsets: ["latin"], weight: ["400", "500", "700"] });
 
 export const metadata: Metadata = {
-  title: "스마트 수업교체 도우미",
-  description: "선생님들을 위한 스마트 수업교체 및 협의회 시간 탐색 웹앱",
+  title: "명신고등학교 수업교체 도우미",
+  description: "선생님들을 위한 수업교체 및 협의회 시간 탐색",
 };
 
 export default function RootLayout({
